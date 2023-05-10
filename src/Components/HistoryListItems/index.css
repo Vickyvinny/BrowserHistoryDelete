@@ -1,0 +1,34 @@
+.list-items {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.container {
+  display: flex;
+}
+.logo {
+  height: 20px;
+  align-self: center;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+.title {
+  font-size: 10px;
+  margin-right: 6px;
+  align-self: center;
+}
+.time {
+  font-size: 10px;
+  align-self: center;
+}
+.Url {
+  font-size: 10px;
+  align-self: center;
+}
+.button {
+  border: 0;
+  background: none;
+}
+.delete-icon {
+  height: 20px;
+}
